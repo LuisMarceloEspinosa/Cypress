@@ -1,0 +1,5 @@
+[
+    { "usuario": "Luis", "contrasena": "pwd" },
+    { "usuario": "Marcelo", "contrasena": "pwd" },
+    { "usuario": "usuario_invalido", "contrasena": "contrasena_invalida" }
+  ]
